@@ -1,0 +1,5 @@
+title: "How to use Jupyter Book"
+logo: images/rhlogo.png
+execute:
+  execute_notebooks: "off"
+
