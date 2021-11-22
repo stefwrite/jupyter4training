@@ -2,7 +2,7 @@
 
 Jupyter Book and Jupyter Notebook have a lot of potential as a means of developing self-paced training content.
 
-## Training is not documentation
+## How is training different from documentation?
 
 Training is an interactive experience designed to enable a learner to perform a certain tasks. It's driven by [learning objectives](https://www.cmu.edu/teaching/designteach/design/learningobjectives.html) that define what a learner should be able to do after completing the training. Training should be engaging and interactive, and it should apply some instructional design best practices to optimize the learning experience. Most training is also designed to collect data from learners in order to provide them feedback on their progress and/or to monitor learner completions and success with the content.
 
