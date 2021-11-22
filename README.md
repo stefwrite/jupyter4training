@@ -14,5 +14,18 @@ We already have the ability to embed media in a Jupyter notebook. What we need i
 
 That's the first thing we're focusing on in this project.
 
-MORE TO COME...
+## Question type: multiple choice, single answer
 
+One of the code cells in [quiz-testing.jpynb] uses the radio button widget to set up a multiple choice question with a single correct answer choice. Here's what that output should look like when you run the cell, both before and after responding to the question:
+
+<img src="jupyter-question-multiplechoicesingleanswer.png">
+
+<img src="jupyter-question-multiplechoicesingleanswer-result.png">
+
+## Question type: multiple choice, one or more answers
+
+One of the code cells in [quiz-testing.jpynb] uses the checkbox widget multiple times to set up a multiple choice question with one or more answer choices. Here's what that output should look like when you run the cell, both before and after responding to the question:
+
+<img src="jupyter-question-multiplechoicemultipleanswer.png">
+
+<img src="jupyter-question-multiplechoicemultipleanswer-result.png">
